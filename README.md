@@ -1,7 +1,6 @@
-# 👋 Привет, меня зовут Сергей.
+# BiAIIM
 
-## 🎯 Чем занимаюсь
-Исследую уязвимости больших языковых моделей (LLM): промпт-инъекции, джейлбрейки, утечки данных.
+## LLM Security Research & Exploitation.
 
 ## 🔗 Ссылки
 - [Профиль на Gray Swan Arena](https://app.grayswan.ai/arena/user/6a1f0792ca29139eaa560ddb)
